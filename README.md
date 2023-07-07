@@ -19,7 +19,7 @@ The Specialization is divided into 3 courses. Each course has additional lab ass
 - <a href="Calculus for Machine Learning and Data Science/Week2/">Week 2<a>
 - <a href="Calculus for Machine Learning and Data Science/Week3/">Week 3<a>
 
-## Course 3: Probability & Statistics for Machine Learning & Data Science
+### Course 3: Probability & Statistics for Machine Learning & Data Science
 ---
 
 - <a href="Probability & Statistics for Machine Learning & Data Science/Week1/">Week 1<a>
